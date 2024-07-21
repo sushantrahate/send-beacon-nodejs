@@ -13,8 +13,8 @@ It's intended to be used for sending analytics data to a web server when the use
 Download the repository, install dependencies with `npm install`, and run the server with `node server.js`.
 
 ```sh
-git clone <repository-url>
-cd <repository-directory>
+git clone https://github.com/sushantrahate/send-beacon-nodejs.git
+cd send-beacon-nodejs
 npm install
 node server.js
 ```
